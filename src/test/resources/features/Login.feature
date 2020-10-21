@@ -13,4 +13,3 @@ Feature: As user I want to be able to login under different roles
     Then user should see dashboard page
 
 #"driver" - is a parameter. "" allows to do test parametrization which helps to re-use test steps
-  #github test - PLEASE IGNORE
